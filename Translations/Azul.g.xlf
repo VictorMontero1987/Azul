@@ -1,0 +1,964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Azul">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 1768122483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DX Azul Transactions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Amount field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 4000793762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the AuthorizationCode field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control AuthorizationCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 4000793762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Authorization Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control AuthorizationCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3690113171 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the AzulOrderId field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control AzulOrderId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3690113171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azul Order Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control AzulOrderId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Customer No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 215826972 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the CustomOrderId field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control CustomOrderId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 215826972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custom Order Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control CustomOrderId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3784464099 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the DataVaultBrand field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control DataVaultBrand - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3784464099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DataVault Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control DataVaultBrand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 1466265451 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the DataVaultExpiration field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control DataVaultExpiration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 1466265451 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DataVault Expiration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control DataVaultExpiration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 1542176947 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the DataVaultToken field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control DataVaultToken - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 1542176947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DataVault Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control DataVaultToken - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 2854863747 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the DateTime field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control DateTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 2854863747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3407236114 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ErrorDescription field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control ErrorDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3407236114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control ErrorDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 1590662436 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the IsoCode field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control IsoCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 1590662436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Iso Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control IsoCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3275075920 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the LotNumber field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control LotNumber - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3275075920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control LotNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 1960414225 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Member Id field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Member Contact No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 1960414225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member Contact No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Member Contact No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3083556976 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Reference No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Reference No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3083556976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reference No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Reference No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 74235114 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ResponseCode field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control ResponseCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 74235114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control ResponseCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 4009622364 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ResponseMessage field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control ResponseMessage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 4009622364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control ResponseMessage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 1864591134 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the RNN field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control RNN - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 1864591134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RNN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control RNN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 4253021952 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Ticket field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Ticket - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 4253021952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Ticket - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3132336368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Transaction Type field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Transactiontype - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1768122483 - Control 3132336368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Transactions - Control Transactiontype - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 957797029 - NamedType 775247880" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 957797029">
+          <source>Azul configuration not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DXPE LSC Memb Batch Lines - NamedType Conf</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 957797029 - NamedType 457134036" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 957797029">
+          <source>Data sent successfully</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DXPE LSC Memb Batch Lines - NamedType DxText001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 957797029 - NamedType 520504499" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 957797029">
+          <source>The batch is not posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DXPE LSC Memb Batch Lines - NamedType posted</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 957797029 - NamedType 1741662302" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 957797029">
+          <source>Sending payments via Azul is disabled, please check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DXPE LSC Memb Batch Lines - NamedType SendAzulpos</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 957797029 - Action 318230441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 123611473">
+          <source>Make payments via azul</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DXPE LSC Memb Batch Lines - Action make payments via azul - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4065726516 - Field 3268962730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2377908464">
+          <source>attempts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DX LSC Membership Batch Line - Field attempts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3581608081 - EnumValue 4272814342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DX Process Type - EnumValue Cancel Transaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3581608081 - EnumValue 1004196339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DX Process Type - EnumValue Payments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3581608081 - EnumValue 3875867463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DX Process Type - EnumValue Record - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3581608081 - EnumValue 4028787690 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refund</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DX Process Type - EnumValue Refund - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 456542171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DX ADD CARD</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX ADD CARD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 456542171 - NamedType 3384288556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can not print this report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX ADD CARD - NamedType error</note>
+        </trans-unit>
+        <trans-unit id="Report 456542171 - NamedType 3740971113" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The CVV of the card cannot be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX ADD CARD - NamedType MgsCCV</note>
+        </trans-unit>
+        <trans-unit id="Report 456542171 - NamedType 3926167552" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The card number cannot be empty.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX ADD CARD - NamedType MsgCardNO</note>
+        </trans-unit>
+        <trans-unit id="Report 456542171 - NamedType 408977291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The month of the card cannot be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX ADD CARD - NamedType MsgMM</note>
+        </trans-unit>
+        <trans-unit id="Report 456542171 - NamedType 2555741347" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The expiration year of the card cannot be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX ADD CARD - NamedType MsgYYYY</note>
+        </trans-unit>
+        <trans-unit id="Report 456542171 - Control 2539369263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit card number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX ADD CARD - Control CardNO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 456542171 - Control 1602583778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CCV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX ADD CARD - Control CCV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 456542171 - Control 3194283148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX ADD CARD - Control MM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 456542171 - Control 417640084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX ADD CARD - Control YYYY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1824146773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register Agreement</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX Register Agreement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1824146773 - Control 4169563781 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execution day</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX Register Agreement - Control diaEjecucion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1824146773 - Control 501194782 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expiration date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX Register Agreement - Control fechaVencimiento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1824146773 - Control 3430143849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX Register Agreement - Control monto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1824146773 - Control 1243308354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Periodo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX Register Agreement - Control Período - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1824146773 - Control 1243308354 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Diario,Semana,Quincenal,Mensual</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report DX Register Agreement - Control Período - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3199693644 - Field 3690113171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1638808152">
+          <source>Azul Order Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DXLSC Member Contact  - Field AzulOrderId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3199693644 - Field 1542176947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1638808152">
+          <source>Data Vault Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DXLSC Member Contact  - Field DataVaultToken - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3199693644 - Field 3243117298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1638808152">
+          <source>Send Azul</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DXLSC Member Contact  - Field SendAzul - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 70801604 - EnumValue 495197109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Peso</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DXEN Currency - EnumValue DOP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 70801604 - EnumValue 4065591463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Euro</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DXEN Currency - EnumValue EURO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 70801604 - EnumValue 3303754106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dolar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DXEN Currency - EnumValue US - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DX Azul Log Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 4000793762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AuthorizationCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field AuthorizationCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 3690113171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AzulOrderId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field AzulOrderId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 215826972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CustomOrderId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field CustomOrderId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 3784464099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DataVaultBrand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field DataVaultBrand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 1466265451 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DataVaultExpiration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field DataVaultExpiration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 1542176947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DataVaultToken</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field DataVaultToken - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 2854863747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 3407236114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ErrorDescription</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field ErrorDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 1590662436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IsoCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field IsoCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 3275075920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LotNumber</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field LotNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 1960414225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field Member Contact No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 3083556976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reference No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field Reference No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 74235114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ResponseCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field ResponseCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 4009622364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ResponseMessage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field ResponseMessage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 1864591134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RNN</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field RNN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 4253021952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field Ticket - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1508285011 - Field 3132336368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DX Azul Log Response - Field Transactiontype - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 322495230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DXBank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 322495230 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBank - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 322495230 - Field 718957522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CodeUnit ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBank - Field CodeUnit ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 322495230 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBank - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 322495230 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBank - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 322495230 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBank - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 322495230 - Field 1779026477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.Autorizacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBank - Field No.Autorizacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2871406599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DXBanking Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBanking Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2871406599 - Field 2747186042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AutoPosted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBanking Setup - Field AutoPosted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2871406599 - Field 3348941625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBanking Setup - Field Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2871406599 - Field 2434136014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBanking Setup - Field Local Currency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2871406599 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBanking Setup - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2871406599 - Field 103924864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBanking Setup - Field Posting No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2871406599 - Field 1361612422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recibo de Ingreso</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXBanking Setup - Field Recibo de Ingreso - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DXTB Azure Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 1357648586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attempts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field Attempts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 2747186042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AutoPosted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field AutoPosted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 1428331721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cert Thumbprint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field CertThumbprint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 3276792861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Channel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field Channel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 3561154705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field Currency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 2534576010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FormaPago</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field FormaPago - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 2780239775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IDReg</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field IDReg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 842878006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Url Hold Trans</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field PrimaryUrlHoldTrans - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 995795201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Void</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field ProcessVoid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 3406146152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secondary Url Hold Trans</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field SencodaryUrlHoldTrans - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 3243117298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SendAzure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field SendAzul - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 1074243913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field Store - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 4146460525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 2782153897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL Primary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field URLPrimary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002377561 - Field 2126342515 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL Secondary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DXTB Azul Setup - Field URLSecondary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1884531550 - NamedType 3756271346" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data sent successfully: %1 to %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DX Send Azul - NamedType completado</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1884531550 - NamedType 280126291" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed to connect to the server</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DX Send Azul - NamedType FailConextion</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1884531550 - NamedType 359828927" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The client does not have a reference number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DX Send Azul - NamedType LClient</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1884531550 - NamedType 847333764" size-unit="char" translate="yes" xml:space="preserve">
+          <source>the email cannot be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DX Send Azul - NamedType LEmail</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1884531550 - NamedType 1263003989" size-unit="char" translate="yes" xml:space="preserve">
+          <source>you must enter the name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DX Send Azul - NamedType LName</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1884531550 - NamedType 709640847" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No cannot be empty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DX Send Azul - NamedType LRegistration</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DX Azul Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Config Azure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 1357648586 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attempts allowed before blocking the client</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control Attempts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 1357648586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attempts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control Attempts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 1428331721 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control CertThumbprint - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 1428331721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cert. Thumbprint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control CertThumbprint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 3276792861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control Channel - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 3276792861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Channel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control Channel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 2780239775 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control IDReg - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 2780239775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID Registro</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control IDReg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 842878006 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control PrimaryUrlHoldTrans - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 842878006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Url Hold Trans</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control PrimaryUrlHoldTrans - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 995795201 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control ProcessVoid - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 995795201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Void</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control ProcessVoid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 3406146152 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control SencodaryUrlHoldTrans - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 3406146152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sencodary Url Hold Trans</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control SencodaryUrlHoldTrans - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 3210253511 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control SendAzure - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 3210253511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Azure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control SendAzure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 1074243913 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control Store - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 1074243913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Store</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control Store - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 2782153897 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control URLPrimary - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 2782153897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL Primary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control URLPrimary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 2126342515 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control URLSecondary - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2522670878 - Control 2126342515 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL Secondary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DX Azul Setup Page - Control URLSecondary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 322495230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DXBank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 322495230 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBank - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 322495230 - Control 718957522 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the CodeUnit ID field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBank - Control CodeUnit ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 322495230 - Control 2704330142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Journal Batch Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBank - Control Journal Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 322495230 - Control 3684440170 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Journal Template Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBank - Control Journal Template Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 322495230 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBank - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 322495230 - Control 1779026477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No.Autorizacion field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBank - Control No.Autorizacion - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931850850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DXBank Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBankCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931850850 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBankCard - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931850850 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBankCard - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931850850 - Control 718957522 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the CodeUnit ID field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBankCard - Control CodeUnit ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931850850 - Control 2704330142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Journal Batch Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBankCard - Control Journal Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931850850 - Control 3684440170 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Journal Template Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBankCard - Control Journal Template Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931850850 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBankCard - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931850850 - Control 1779026477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No.Autorizacion field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBankCard - Control No.Autorizacion - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931850850 - Action 852604317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proceso Recoleccion en Informacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBankCard - Action DXReport Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2871406599 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Task,Report,DXBank,DXBankingReference</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBanking Setup - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 2871406599 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DXBanking Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBanking Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2871406599 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBanking Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2871406599 - Control 2747186042 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the AutoPosted field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBanking Setup - Control AutoPosted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2871406599 - Control 3348941625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Key field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBanking Setup - Control Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2871406599 - Control 2434136014 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Local Currency field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBanking Setup - Control Local Currency - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2871406599 - Control 1351594800 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. Series field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBanking Setup - Control No. Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2871406599 - Control 103924864 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Posting No. Series field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBanking Setup - Control Posting No. Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2871406599 - Control 1361612422 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Recibo de Ingreso field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBanking Setup - Control Recibo de Ingreso - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2871406599 - Action 3701364126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DxBank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DXBanking Setup - Action DxBank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3855613316 - NamedType 1123684309" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3855613316">
+          <source>This user is already registered on Azul </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DX Customer - NamedType message</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3855613316 - NamedType 234003390" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3855613316">
+          <source>You need to configure the connection parameters for the API Azul</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DX Customer - NamedType message1</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3855613316 - Action 2083130663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Register credit card in Azul</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DX Customer - Action Register credit card in Azul - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3855613316 - Control 1527209096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DX Customer - Control EnviarCardnet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3855613316 - Control 1527209096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Send Azul</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DX Customer - Control EnviarCardnet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3855613316 - Control 3489552378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DX Customer - Control IDCardNet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3855613316 - Control 3489552378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>ID Azul</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DX Customer - Control IDCardNet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3855613316 - Control 2832386701 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DX Customer - Control IDTarjetaCardNet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3855613316 - Control 2832386701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>ID Card Azul.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DX Customer - Control IDTarjetaCardNet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3467851684 - Field 616218681 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>ID Azul</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DXCustomer  - Field IDAzul - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3467851684 - Field 1501441589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>ID Card Azul</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DXCustomer  - Field IDCardAzul - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3467851684 - Field 3536462656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>ID tarjera Registrada</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DXCustomer  - Field IDtarjeraRegAzul - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3467851684 - Field 3208938074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Send Aul</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DXCustomer  - Field Send Azul - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
